@@ -29,7 +29,7 @@ const siteProps = {
   email: "boat.charunthon@gmail.com",
   gitHub: "chrnthnkmutt",
   instagram: "boatchrnthn",
-  linkedIn: "satyanadella",
+  linkedIn: "charunthon-limseelo-66b226154",
   medium: "boatchrnthn",
 };
 
