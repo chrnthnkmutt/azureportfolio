@@ -26,13 +26,11 @@ import "./styles.css";
 const siteProps = {
   name: "Charunthon Limseelo",
   title: "Web creator, AI, and Computer Engineering Student",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
+  email: "boat.charunthon@gmail.com",
+  gitHub: "chrnthnkmutt",
+  instagram: "boatchrnthn",
   linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  medium: "boatchrnthn",
 };
 
 const primaryColor = "#4E567E";
