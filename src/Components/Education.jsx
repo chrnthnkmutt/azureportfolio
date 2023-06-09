@@ -3,6 +3,7 @@ import React from "react";
 const Education = () => {
     return(
         <section className="light" id="education">
+            <div className="container narrow">
             <h2 style={{ textAlign: "center" }}>Education</h2>
             <ol class="timeline-list">
             <li class="timeline-item">
@@ -31,6 +32,7 @@ const Education = () => {
             </li>
 
           </ol>
+          </div>
         </section>
     )
 }
