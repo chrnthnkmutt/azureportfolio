@@ -13,9 +13,6 @@ const Education = () => {
 
               <p class="timeline-text">
               At this moment, I am studying in the second year of my bachelor's degree in Computer Engineering (International Program) or CPE at KMUTT.
-              </p>
-              &nbsp;
-              <p class="timeline-text">
               During these year, I would have some collaborations with profeesors and friends in order to do some projects.
               </p>
             </li>
