@@ -9,5 +9,3 @@ const Education = () => {
 }
 
 export default Education;
-
-<Education />
