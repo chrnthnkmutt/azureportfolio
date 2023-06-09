@@ -18,7 +18,7 @@ const Education = () => {
               <p class="timeline-text">
               During these year, I would have some collaborations with profeesors and friends in order to do some projects.
               </p>
-
+            </li>
 
             <li class="timeline-item">
 
