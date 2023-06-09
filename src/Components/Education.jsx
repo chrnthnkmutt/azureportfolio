@@ -3,7 +3,6 @@ import React from "react";
 const Education = () => {
     return(
         <section className="light" id="education">
-            <br />
             <h2 style={{ textAlign: "center" }}>Education</h2>
             <ol class="timeline-list">
             <li class="timeline-item">
