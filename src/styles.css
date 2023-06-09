@@ -14,7 +14,7 @@ body {
   width: 100%;
 }
 
-/* add a smooth scroll */
+/* add a smooth scrolling effect when clicking header */
 html {
   scroll-behavior: smooth;
 }
